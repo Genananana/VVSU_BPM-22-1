@@ -1,2 +1,1 @@
-# VVSU_BPM-22-1
-хуй
+# VVSU_BPM-22-
